@@ -1,3 +1,3 @@
 # Air Protocol
 
-Hi! We have move to https://github.com/air-protocol.
+Hi! We have moved to https://github.com/air-protocol.
